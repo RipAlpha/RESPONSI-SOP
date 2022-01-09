@@ -1,8 +1,8 @@
 # RESPONSI-SOP
 
-<ul>
-  <li>Muhamad Syarifudin</li>
-  <li>5200411347</li>
+
+  <h4>Muhamad Syarifudin</h4>
+  <h4>5200411347</h4>
 
 
 
