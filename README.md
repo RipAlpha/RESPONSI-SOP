@@ -6,8 +6,8 @@
 
 
 
-<p>HASIL OUTPUT NOMOR 1<p>
-![image](https://user-images.githubusercontent.com/63797602/148683520-2a69967e-ac93-477a-a932-9426bc457d80.png)
+<p>HASIL OUTPUT NOMOR 1 <br/>
+![image](https://user-images.githubusercontent.com/63797602/148683520-2a69967e-ac93-477a-a932-9426bc457d80.png)</p>
 
 
 HASIL OUTPUT NOMOR 2
